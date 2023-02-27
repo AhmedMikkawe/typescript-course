@@ -2,4 +2,4 @@
 
 ## Installation
 
-`run npm install`
+run `npm install` from command line
