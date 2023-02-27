@@ -1,0 +1,22 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "description": "typescript youtube course by Ahmed Mikkawe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedMikkawe/typescript-course.git"
+  },
+  "author": "Ahmed Mikkawe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedMikkawe/typescript-course/issues"
+  },
+  "homepage": "https://github.com/AhmedMikkawe/typescript-course#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
